@@ -6,7 +6,8 @@ plugins:
   - jekyll-github-metadata
 
 permalink: /:year/:month/:day/:title/
-baseurl: http://mbahack2.syui.cf/personal-website
+
+baseurl: https://mbahack2.syui.cf/personal-website
 
 defaults:
   -
