@@ -7,6 +7,7 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 
+url: https://mbahack2.syui.cf
 baseurl: personal-website
 
 defaults:
